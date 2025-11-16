@@ -1,0 +1,25 @@
+{
+  "sectionTitle": "Education",
+  "education": [
+    {
+      "degree": "Graduate Certificate",
+      "institution": "UW Milwaukee",
+      "period": "May 2025",
+      "description": "Graduate Certificate in Business Analytics",
+      "achievements": [],
+      "color": "#667eea",
+      "icon": "fas fa-graduation-cap"
+    },
+    {
+      "degree": "Master",
+      "institution": "University of Wisconsin, Milwaukee, WI",
+      "period": "May 2025",
+      "description": "Master in Information Technology and Management",
+      "achievements": [],
+      "color": "#764ba2",
+      "icon": "fas fa-graduation-cap"
+    }
+  ],
+  "certificationsTitle": "Certifications & Awards",
+  "certifications": []
+}

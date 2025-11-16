@@ -1,0 +1,65 @@
+{
+  "sectionTitle": "Work Experience",
+  "experiences": [
+    {
+      "title": "Data Analyst",
+      "company": "JPMorgan Chase & Co",
+      "location": "",
+      "period": "Dec 2024 – Present",
+      "type": "Full-time",
+      "color": "#667eea",
+      "icon": "fas fa-briefcase",
+      "description": "•\tEngineered automated Python- and SQL-based pipelines aggregating transactional and client datasets, enabling real-time financial reporting, minimizing manual intervention by 25%, and improving overall data processing speed across multiple financial platforms.\n•\tDeveloped and deployed credit risk prediction models using scikit-learn and PyTorch, improving default probability prediction accuracy by 18% and reducing portfolio-level loan losses through more precise credit assessments.\n•\tDesigned interactive Tableau dashboards to visualize portfolio performance across regions, allowing management to identify underperforming segments quickly and make informed adjustments that increased profitability by 10% within one quarter.\n•\tExecuted exploratory data analysis (EDA) and statistical inference to identify significant loan approval drivers, influencing revised eligibility policies that increased approval efficiency by 15% and enhanced fairness in decision-making.\n•\tIntegrated AWS Lambda and PySpark pipelines for automated data validation across data lakes, improving ingestion accuracy by 22% and enabling consistent financial reconciliations across multiple systems.\n•\tPartnered with business and technology teams to define analytical workflows in Databricks, improving analytics throughput by 20% and reducing cross-departmental project delivery time through reproducible and modular pipelines.\n•\tPerformed A/B testing and regression analyses to evaluate pricing strategy impacts, revealing insights that optimized promotional campaigns and increased new customer acquisitions by 12% over 6 months.",
+      "responsibilities": [],
+      "technologies": [
+        "Python",
+        "SQL",
+        "scikit-learn",
+        "PyTorch",
+        "Tableau",
+        "AWS Lambda",
+        "PySpark",
+        "Databricks"
+      ]
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Hexaware Technologies",
+      "location": "Chicago, IL",
+      "period": "Nov 2021 – Jul 2023",
+      "type": "Full-time",
+      "color": "#764ba2",
+      "icon": "fas fa-briefcase",
+      "description": "•\tDesigned and maintained end-to-end ETL pipelines using Python and SQL, ensuring data integrity across client environments and reducing manual cleansing efforts by 40% while accelerating reporting turnaround times.\n•\tCreated predictive churn models using logistic regression and decision trees, achieving 85% accuracy and enabling targeted retention programs that improved customer retention by 10% within 2 business quarters.\n•\tAutomated Power BI reporting systems delivering real-time operational KPIs, saving 25 weekly analyst hours and enhancing client transparency through consistent and validated data updates.\n•\tCollaborated with engineering teams to integrate REST and SOAP APIs into Snowflake data warehouses, improving query efficiency by 30% and reducing reporting latency across enterprise-scale analytics environments.\n•\tConducted variance and trend analyses on multi-year financial datasets, identifying process inefficiencies that saved business units approximately $150K annually through data-driven operational cost optimization.\n•\tSupported AWS-based deployment of analytics workflows using S3, Glue, and Lambda, enabling secure, scalable data access and improving processing reliability by 20% across regional client teams.\n•\tPartnered with client analytics leads to design KPI frameworks and interactive Power BI dashboards, improving decision-making cadence and increasing quarterly business review adoption.",
+      "responsibilities": [],
+      "technologies": [
+        "Python",
+        "SQL",
+        "Power BI",
+        "REST",
+        "SOAP",
+        "Snowflake",
+        "AWS S3",
+        "Glue",
+        "Lambda"
+      ]
+    },
+    {
+      "title": "Business Analyst",
+      "company": "Mphasis",
+      "location": "",
+      "period": "Jul 2020 – Sep 2021",
+      "type": "Full-time",
+      "color": "#f093fb",
+      "icon": "fas fa-briefcase",
+      "description": "•\tGathered and analyzed financial technology business requirements, aligning data deliverables with client goals, accelerating project definition by 20%, and improving stakeholder satisfaction during early-stage solution design.\n•\tBuilt automated SQL-driven reporting systems replacing manual spreadsheet workflows, improving reporting accuracy by 35% and reducing turnaround time from 3 days to one through process automation.\n•\tAnalyzed revenue datasets to uncover leakage and compliance anomalies, identifying remediation measures that eliminated recurring discrepancies and generated annual client savings exceeding $250K.\n•\tDefined and implemented KPI frameworks that enhanced executive visibility into operational metrics, improving quarterly decision-making speed by 30% and strengthening alignment between performance goals and outcomes.\n•\tDesigned Tableau and Excel dashboards monitoring satisfaction and process metrics, shortening feedback resolution cycles by 25% and increasing transparency in post-engagement reviews.\n•\tCoordinated with technical teams to translate analytical requirements into Python-based automation scripts, improving data preparation efficiency by 30% and minimizing dependency on manual processing.\n•\tAuthored workflow documentation and delivered training for 20+ analysts on governance standards, reducing onboarding duration by 40% and increasing audit readiness scores in compliance evaluations.",
+      "responsibilities": [],
+      "technologies": [
+        "SQL",
+        "Tableau",
+        "Excel",
+        "Python"
+      ]
+    }
+  ]
+}

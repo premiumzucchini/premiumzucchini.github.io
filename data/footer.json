@@ -1,0 +1,23 @@
+{
+  "tagline": "Building the future, one line of code at a time.",
+  "socialLinks": [
+    {
+      "url": "LinkedIn",
+      "platform": "LinkedIn",
+      "icon": "fab fa-linkedin"
+    }
+  ],
+  "copyright": {
+    "text": "© 2025 Sanjeev Preetam K. All rights reserved."
+  },
+  "links": [
+    {
+      "href": "#",
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "#",
+      "text": "Terms of Service"
+    }
+  ]
+}

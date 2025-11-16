@@ -1,0 +1,13 @@
+{
+  "title": "Sanjeev Preetam K - Professional Portfolio",
+  "description": "Professional portfolio showcasing my work and experience",
+  "author": "Sanjeev Preetam K",
+  "keywords": "Classification, Clustering, Feature Engineering, Model Evaluation, Hyperparameter Tuning, Machine Learning Models, Neural Networks, Deep Learning, Natural Language Processing (NLP), Generative AI (ChatGPT APIs, Claude, Gemini), Predictive Analytics, Computer Vision, Time Series Forecasting, Model Optimization, Feature Selection, AI Solution Development, ETL Pipelines, Data Wrangling, Data Cleaning, Data Transformation, Data Modeling, Data Integration, Data Quality Assurance, Feature Store Management, Cloud Deployment, Data Storage Optimization, Dashboard Development, KPI Tracking, Data Storytelling, Executive Reporting, Business Intelligence (BI), Model Deployment, CI/CD for ML, Model Monitoring, Automation, Reproducible Model Training, Requirements Gathering, Data-Driven Decision Making, Experiment Design (A/B Testing), Statistical Modeling, KPI Definition, Cost Optimization through AI, Product Analytics, Quantitative Analysis, Problem Solving, Critical Thinking, Stakeholder Communication, Cross-Functional Collaboration, Agile & Scrum Methodology, Analytical Reporting, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, Apache Spark, Hadoop, Databricks, Kafka, MySQL, PostgreSQL, MongoDB, Snowflake, Redshift, AWS (S3, SageMaker, Lambda), GCP (BigQuery, Vertex AI), Azure (Synapse, ML Studio), Tableau, Power BI, Looker, Matplotlib, Seaborn, Plotly, MLflow, Docker, Kubernetes, Version Control (Git, GitHub, GitLab), Python, SQL, SAS, scikit-learn, AWS Lambda, PySpark, REST, SOAP, AWS S3, Glue, Lambda, Excel",
+  "ogImage": "/assets/images/og-image.jpg",
+  "favicon": "/assets/images/favicon.ico",
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
+    "accentColor": "#ec4899"
+  }
+}
