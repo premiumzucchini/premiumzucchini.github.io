@@ -24,7 +24,7 @@
     }
   ],
   "downloadCV": {
-    "href": "/resume.pdf",
+    "href": "/resume.docx",
     "icon": "fas fa-download",
     "text": "Download Resume"
   }
