@@ -89,25 +89,6 @@
       }
     },
     {
-      "title": "contribution-history",
-      "description": "Generated GitHub contribution history",
-      "color": "#667eea",
-      "icon": "fab fa-github",
-      "technologies": [],
-      "keyFeatures": [],
-      "projectType": "",
-      "highlight": "",
-      "links": {
-        "github": "https://github.com/premiumzucchini/contribution-history",
-        "demo": ""
-      },
-      "stats": {
-        "stars": 0,
-        "forks": 0,
-        "language": ""
-      }
-    },
-    {
       "title": "dashboards-development-using-tableau-and-powerbi",
       "description": "Hands-on learning experience with modern frameworks",
       "color": "#764ba2",
